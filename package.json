@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "wokcommands": "^1.5.3",
+    "yaml": "^1.10.2"
+  },
+  "name": "modinator-lite",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
