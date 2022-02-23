@@ -18,6 +18,8 @@
     <img src="https://wakatime.com/badge/user/dd480f1a-c90e-441c-9a69-b2a6e5b2294f/project/7bcb57e2-e4d3-4e5d-8754-29321a07d6a8.svg?style=flat">
 </p>
 
+<h3 align="center"><a href="https://github.com/TheConwayy/Modinator-LITE/releases/tag/latest">Download Here</a></h3>
+
 ❓ What is "Modinator?"
 ====================
 
