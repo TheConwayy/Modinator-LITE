@@ -6,6 +6,18 @@
     The Discord Bot for <em>all</em> your moderation 🛠️ needs, free 🤑 & open-source 💾!
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/issues-raw/TheConwayy/Modinator-LITE">
+    <img src="https://img.shields.io/github/issues-pr-raw/TheConwayy/Modinator-LITE">
+     <img src="https://img.shields.io/github/forks/TheConwayy/Modinator-LITE" />
+     <img src="https://img.shields.io/github/v/release/TheConwayy/Modinator-LITE">
+     <img src="https://img.shields.io/github/downloads/TheConwayy/Modinator-LITE/latest/total">
+</p>
+
+<p align="center">
+    <img src="https://wakatime.com/badge/user/dd480f1a-c90e-441c-9a69-b2a6e5b2294f/project/7bcb57e2-e4d3-4e5d-8754-29321a07d6a8.svg?style=flat">
+</p>
+
 ❓ What is "Modinator?"
 ====================
 
