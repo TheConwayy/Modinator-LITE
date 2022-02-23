@@ -53,7 +53,7 @@ You can find out more about me [here](https://github.com/TheConwayy)
 
 And if you need to contact me, you can though one of the following:
 
-<a href="https://twitter.com/DevinConwayy"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="50" alt="Devin Conway :: Twitter" /></a> <a href="https://www.instagram.com/devinconwayy/"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="50" alt="Devin Conway :: Instagram" /></a> <a href="https://discord.com/users/384010503824867328"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/discord.png" width="50" alt="Devin Conway :: Discord" /></a>
+<a href="https://twitter.com/DevinConwayy" target="_blank"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="50" alt="Devin Conway :: Twitter" /></a> <a href="https://www.instagram.com/devinconwayy/"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" target="_blank" width="50" alt="Devin Conway :: Instagram" /></a> <a href="https://discord.com/users/384010503824867328"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/discord.png" target="_blank" width="50" alt="Devin Conway :: Discord" /></a>
 
 🏹 Making PR's
 ==================
